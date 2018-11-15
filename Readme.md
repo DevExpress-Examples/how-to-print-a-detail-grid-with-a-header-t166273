@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/PrintingDetailHeaderExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PrintingDetailHeaderExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/PrintingDetailHeaderExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PrintingDetailHeaderExample/MainWindow.xaml.vb))
+* [TaskViewModel.cs](./CS/PrintingDetailHeaderExample/ViewModel/TaskViewModel.cs) (VB: [TaskViewModel.vb](./VB/PrintingDetailHeaderExample/ViewModel/TaskViewModel.vb))
+<!-- default file list end -->
 # How to print a detail grid with a header
 
 
